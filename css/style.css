@@ -1,0 +1,176 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+
+
+body {
+  font-family: "Poppins", Verdana, Arial, Helvetica, Geneva, sans-serif;
+  box-sizing: border-box;
+  margin: 0 auto;
+}
+
+
+/*------------------------------------header------------------------------------------------------------*/
+
+
+#menu-checkbox {
+  display: none;
+}
+
+/* header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  padding-top: 15px;
+}
+
+li  {
+  list-style: none;
+  color: #341f6c;
+}
+
+ li a:hover {
+  color: #797101;
+}
+
+.fa-solid.fa-magnifying-glass {
+  color: #e9c69e;
+  border: 0;
+} */
+
+/* .sub_nav{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+.search_container{
+  margin-right: 25px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.navigation {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navigation-2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+
+.logo-img {
+  width: 100%;
+  max-width: 140px;
+  padding-right: 20px;
+  border: 2px solid green;
+}
+
+#menu-checkbox {
+  display: none;
+}
+
+.search-box {
+  padding: 5px 10px;
+  border-radius: 6px;
+  height: 40px;
+  border: 2px solid #e9c69e;
+  position:relative;
+  
+}
+
+
+.search_input {
+ font-size: 20px;
+ position: absolute; 
+ left: 156px; 
+ height: 40px;
+ width: 50px<
+ background-color: #574f4f;
+ color: #e9c69e;
+ border-radius: 8px;
+ cursor: pointer;
+ 
+}
+.cta_mobile{
+  display: none;
+}
+
+nav a {
+  color: #000;
+  padding-right: 25px;
+  font-size: 1em;
+}
+
+a {
+  text-decoration: none;
+}
+
+.active {
+  color:#4400ff;
+}
+
+
+.fas.fa-shopping-cart {
+  font-size: 22px;
+}
+
+
+.cta-1 {
+  background: #e9c69e;
+  padding: 6px 13px;
+  margin: 15px;
+  text-decoration: none;
+  color: #000;
+  border-radius: 5px;
+  width: 100px; 
+  height: 39px;
+  font-size: 18px;
+}
+
+.color{
+  background-color: #f4e3cf;
+}
+
+.cta-1:hover {
+  background-color: #87caf5;
+} */
+
+/*---------------------------------------main-----------------------------------------------------------*/
+
+
+/*------------------------------------section new arrivals------------------------------------------------*/
+
+
+
+
+/*........................................About us ..........................................*/
+
+
+/*------------------------------------Men page and women page -----------------------------------------------------------*/
+
+
+
+/*........................................collection-----------------------------------..........................................*/
+
+/*------------------------------------checkout page -----------------------------------------------------------*/
+ 
+
+/*------------------------------------product -----------------------------------------------------------*/
+
+
+
+
+/*------------------------------------Log in and sign up -----------------------------------------------------------*/
+
+
+/*------------------------------------contact -----------------------------------------------------------*/
